@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/linear](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/jamieshiers/Dracula-for-Linear/graphs/contributors).
 
 [![Jamie Shiers](https://github.com/jamieshiers.png?size=100)](https://github.com/jamieshiers) |
 --- |

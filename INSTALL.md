@@ -1,17 +1,13 @@
-### [X](http://link-to-x.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
+### [Linear](http://llinear.app)
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Copy the below list of colours. 
+
+```#282A36,#F8F8F2,#44475A,#F8F8F2,#FF5555,#FFFFFF```
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Go to `Settings->Account->Preferences`
+2. Under Select Custom Theme
+3. Paste in the above list, click `Set Theme`. Boom! Working!

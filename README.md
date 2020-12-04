@@ -6,11 +6,15 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/linear](https://draculatheme.com/linear).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+[![Jamie Shiers](https://github.com/jamieshiers.png?size=100)](https://github.com/jamieshiers) |
+--- |
+[Jamie Shiers](https://github.com/jamieshiers) |
 
 [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
 --- |

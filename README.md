@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Linear](http://linear.app)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Linear](http://linear.app).
 
 ![Screenshot](./screenshot.png)
 

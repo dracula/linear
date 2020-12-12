@@ -1,6 +1,6 @@
-# Dracula for [Linear](http://linear.app)
+# Dracula for [Linear](https://linear.app)
 
-> A dark theme for [Linear](http://linear.app).
+> A dark theme for [Linear](https://linear.app).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,16 +10,11 @@ All instructions can be found at [draculatheme.com/linear](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/jamieshiers/Dracula-for-Linear/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/linear/graphs/contributors).
 
 [![Jamie Shiers](https://github.com/jamieshiers.png?size=100)](https://github.com/jamieshiers) |
 --- |
-[Jamie Shiers](https://github.com/jamieshiers) | 
-
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
---- |
-[Zeno Rocha](https://github.com/zenorocha) |
-
+[Jamie Shiers](https://github.com/jamieshiers) |
 
 ## License
 

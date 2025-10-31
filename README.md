@@ -3,7 +3,6 @@
 > A dark theme for [Linear](https://linear.app).
 
 ![Screenshot](./screenshot.png)
-![Screenshot2](./screenshot_2.png)
 
 ## Install
 
